@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/omegaatt36/logging"
 
 func main() {
-	fmt.Println("this is app3")
+	logging.Println("this is app3")
 }
